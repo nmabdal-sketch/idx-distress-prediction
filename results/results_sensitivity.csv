@@ -1,0 +1,5 @@
+model,AUC,Recall,Precision,F1,BalAcc
+"Altman Z""-Score (cutoff 1.1)",0.7214,0.5128,0.5479,0.5298,0.6954
+Logistic Regression,0.9085,0.8205,0.6154,0.7033,0.8363
+Random Forest,0.9224,0.8205,0.6598,0.7314,0.8493
+XGBoost,0.9176,0.7692,0.6417,0.6997,0.8227

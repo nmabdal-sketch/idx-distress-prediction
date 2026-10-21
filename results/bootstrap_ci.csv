@@ -1,0 +1,8 @@
+quantity,lo,hi
+"AUC: Altman Z""-Score (cutoff 1.1)",0.6374,0.7322
+AUC: Logistic Regression,0.864,0.9147
+AUC: Random Forest,0.8683,0.9186
+AUC: XGBoost,0.8686,0.9203
+AUC diff (Logistic Regression - Altman),0.161,0.2528
+AUC diff (Random Forest - Altman),0.1634,0.256
+AUC diff (XGBoost - Altman),0.164,0.2582

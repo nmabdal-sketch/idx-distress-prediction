@@ -1,0 +1,12 @@
+# Package versions that produced the published results.
+# Python 3.13 was used; any Python >=3.10 should work.
+scikit-learn==1.8.0
+xgboost==3.3.0
+imbalanced-learn==0.14.2
+shap>=0.44
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.7
+openpyxl>=3.1
+# Only needed to re-download raw statements from IDX (see scripts/00_download.py):
+curl_cffi>=0.6
